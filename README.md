@@ -1,0 +1,2 @@
+# Thesis2022
+This is the Python code which I used to generate Z parameters, the mass spectra, and couplings to vector bosons for the 1-loop correction CP even Higgs states. Furthermore, this code is the basis for most of my calculations, as some of the calculations could be performed by hand through the usage of symmetry. This collection of code may therefore exist as the barebone structure for generating the results achieved in my thesis.
